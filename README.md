@@ -2,9 +2,7 @@
 Count the number of coffees bought on buymeacoffee.com
 
 I made this to know how much competition was making off of donations to 
-determine if donationware could be a good model for my service.
-
-Use this nicely please :)
+determine if donationware could be a good model for my service. Use this nicely please :)
 
 ## Requirements
 Works with standard packages for `python2` and `python3`.
