@@ -13,7 +13,7 @@ Works with standard packages for `python2` and `python3`.
 # Generic
 python coffee_counter.py <user_id_or_url>
 
-# For example on my page:
+# For example on my page
 python coffee_counter.py https://www.buymeacoffee.com/NrHVy1S
 >>> {'coffee_custom_price': 3,
  'currency': 'EUR',
